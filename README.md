@@ -1,4 +1,4 @@
 ## Dart Ecommerce App
 
 ### Just clone the repo and run 
-**dart checkout.dart**
+**dart bin/main.dart**
